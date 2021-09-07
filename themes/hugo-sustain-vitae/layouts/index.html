@@ -7,11 +7,12 @@
         <div class="avatar">
           <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
         </div>
-        <h3>I'm <strong>{{ .Site.Params.author }}</strong>, a Software Engineer.</h3>
-        <h3>I love all things computer science and maths.</h3>
-        <h3>Have a look at some of my working <a href="{{ .Site.BaseURL }}projects/"> projects</a>.</h3>
-        <h3>For more check out my academic &amp; professional <a href="{{ .Site.BaseURL }}vitae/">resume</a>.</h3>
-        <h3>Contact me at <a href="http://twitter.com/{{ .Site.Params.Social.Twitter }}">@{{ .Site.Params.Social.Twitter }}</a> or by <a href="mailto:{{ .Site.Params.Social.Email }}">email</a>.</h3>
+        <h3>Olá, meu nome é <strong>{{ .Site.Params.author }}</strong>, eu sou uma estudante de TI e Profissional de química em transição de carreira.</h3>
+        <h3>Estudante de Análise e Desenvolvimento de Sistemas, possuo conhecimento em tecnologias como HTML, CSS, JavaScript, SQL e GIT.</h3>
+        <h3>Para conhecer um pouco do que eu estou estudando, dê uma olhada em alguns dos meus <a href="{{ .Site.BaseURL }}projects/"> projetos</a>.</h3>
+        <h3>Para mais informações, confira meu <a href="{{ .Site.BaseURL }}vitae/">currículo</a> acadêmico &amp; profissional.</h3>
+        <h3>Para me contatar conecte comigo no meu <a href="http://linkedin.com/in/{{ .Site.Params.Social.LinkedIn }}">LinkedIn</a> ou me envie uma mensagem 
+          por <a href="mailto:{{ .Site.Params.Social.Email }}">email</a>.</h3>
         {{ partial "social.html" . }}
         </div>
       </section>

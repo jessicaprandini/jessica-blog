@@ -1,0 +1,11 @@
+name: Languages
+title: Languages
+source:
+  - name: [English]
+    stars: 5
+
+  - name: [German]
+    stars: 4
+
+  - name: [Spaninsh]
+    stars: 3

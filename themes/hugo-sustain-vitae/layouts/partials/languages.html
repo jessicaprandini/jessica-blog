@@ -1,0 +1,13 @@
+{{ with .Site.Data.languages }}
+  <section class="thirteen columns">
+    <h1>{{ .name }}</h1>
+    <article>
+      {{ range .source }}
+      <p>
+        {{ range $i, $seq := (seq .stars) }}<i class="fa fa-star"></i>{{ end }}{{ range $i, $seq := (seq (sub 5 (int .stars))) }}<i class="fa fa-star-o"></i>{{ end }}
+          &nbsp;&nbsp;<em>{{ delimit .name "</em>, <em>" "</em> & <em>" }}</em>
+      </p>
+      {{ end }}
+    </article>
+  </section>
+{{ end }}
