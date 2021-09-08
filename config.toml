@@ -14,7 +14,7 @@ publishdir = "jessicaprandini.github.io"
 [params]
   avatar = "profile.jpeg"
   author = "Jéssica Prandini"
-  description = "Jéssica Prandini - Blog"
+  description = "Jéssica Prandini Blog/Portfólio/Currículo"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
