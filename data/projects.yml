@@ -2,5 +2,22 @@ name: Projetos
 source:
   - icon: fa fa-github
     name: site-ada-euprogramo-programaria
-    description: Projeto criado no curso Eu ProgAmo do PrograMaria. Esse site usa tecnologias como HTML, CSS e JavaScript.
+    description: Projeto criado no curso Eu ProgAmo do PrograMaria. Projeto criado usando tecnologias como HTML, CSS e JavaScript.
     url: https://github.com/jessicaprandini/site-ada-euprogramo-programaria
+
+  - icon: fa fa-github
+    name: livro-receitas
+    description: Projeto criado para o estudo de Markdown e GIT
+    url: https://github.com/jessicaprandini/livro-receitas
+
+  - icon: fa fa-github
+    name: exemplos-portugol
+    description: Exemplos de códigos em Portugol usados no curso Lógica de programação do Bootcamp Santander da Digital Innovation One
+    url:  https://github.com/jessicaprandini/exemplos-portugol
+
+  - icon: fa fa-github
+    name: my-latex-resume
+    description: Codigo fonte do meu curriculo desenvolvido usando Latex
+    url:  https://github.com/jessicaprandini/my-latex-resume
+
+   

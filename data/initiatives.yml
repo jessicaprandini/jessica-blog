@@ -1,13 +1,37 @@
-name: Initiatives
+name: Cursos
 source:
-  - title: Graduate Summer Student
-    place: University of Glasgow, UK
-    date: 2013
-    type: courses
-    description: Nec et duis iriure temporibus, ullum adolescens eam ea.
 
-  - title: Student Volunteer
-    place: British RedCross, Glasgow, UK
-    date: 2013
-    type: fundraiser
-    description: Lorem adipiscing ei eam, eros conceptam maiestatis ne sea.
+  - title: "Lógica de programação I: Os primeiros programas com Javascript e HTML"
+    place: ALURA
+    date: Agosto, 2021
+    description: "Curso de Lógica de programação: Dê seus primeiros passos de maneira prática! Inicie na programação com JavaScript no seu Navegador. Entenda variáveis e seu uso Repita tarefas com laços, loops, fors e whiles."
+
+  - title: Informática
+    place: UNiCESUMAR
+    date: Agosto, 2021
+    description: Curso de fundamentos de informática para tecnologias como Windows, Internet, Word, Excel e Powerpoint.
+
+  - title: Santander Bootcamp | Fullstack Developer
+    place: DIGITAL INOVATION ONE
+    date: Julho, 2021
+    description: Curso que ensina um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores, seus principais comandos, como funciona a plataforma e como ela pode simplificar o nosso trabalho.
+
+  - title: "Fundamentos de Programação: Bancos de Dados"
+    place: LinkedIn Learning
+    date: Julho, 2021
+    description: "Fundamentos básicos da lógica da programação e as principais técnicas para o desenvolvimento de algoritmos: descrição narrativa, fluxograma e pseudocódigo."
+
+  - title: Lógica de programação
+    place: DIGITAL INOVATION ONE
+    date: Julho, 2021
+    description: "Fundamentos básicos da lógica da programação e as principais técnicas para o desenvolvimento de algoritmos: descrição narrativa, fluxograma e pseudocódigo."
+
+  - title: Introdução ao Git e ao GitHub
+    place: DIGITAL INOVATION ONE
+    date: Julho, 2021
+    description: Bootcamp voltado para o para a formação de um Desenvolvedor FullStack, ensinando tecnologias como Java, Angular, GIT, PostgreSQL, entre outras.
+    
+  - title: Curso EuProgrAmo
+    place: PROGRAMARiA
+    date: Maio, 2021
+    description: Curso de introdução à programação com foco em desenvolvimento web. Introdução a tecnologias como HTML, CSS, JavaScript e Lógica de Programação.

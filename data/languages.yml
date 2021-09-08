@@ -1,11 +1,11 @@
-name: Languages
-title: Languages
+name: Idiomas
+title: Idiomas
 source:
-  - name: [English]
+  - name: [Português]
     stars: 5
 
-  - name: [German]
-    stars: 4
+  - name: [Inglês]
+    stars: 3
 
-  - name: [Spaninsh]
+  - name: [Espanhol]
     stars: 3

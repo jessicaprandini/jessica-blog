@@ -27,15 +27,10 @@ publishdir = "jessicaprandini.github.io"
   Stackoverflow = "users/16505810"
 
 [params.vitae]
-  website = "git.io/sustain"
-  website_full = "https://demo.nurlan.co/hugo-sustain/"
-  tel = "+44 0000 000000"
-  tel_full = "+440000000000"
-  google_maps = "https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL"
-  address = "44 Perth Street"
-  postcode = "EH3 5BL"
-  city = "Edinburgh"
-  country = "United Kingdom"
+  website = "jessicaprandini.github.io"
+  website_full = "https://jessicaprandini.github.io/"
+  city = "Curitiba - PR"
+  country = "Brasil"
 
 ## Main Menu
 [[menu.main]]

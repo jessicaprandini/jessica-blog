@@ -1,15 +1,16 @@
-name: Education
+name: Educação
 source:
-  - title: MSc in Advanced Computing
-    univ: University of Glasgow
-    place: Glasgow, UK
-    date: 2011 to 2012
-    type: thesis
-    description: Nemore verear an eos, duo accusam placerat urbanitas at, vix libris putent voluptaria ei.
+  - title: Técnico em Química
+    univ: UNIFACEAR - Centro Universitário
+    place: Araucária, PR
+    date: 2015 – 2017
+    
+  - title: Curso Superior de Tecnologia (CST) Tecnologia em Processos Químicos
+    univ: UNIFACEAR - Centro Universitário
+    place: Araucária, PR
+    date: 2017 – 2020
 
-  - title: Major in Computer Science
-    univ: University of College London
-    place: London, UK
-    date: 2007 to 2011
-    type: dissertation
-    description: Te dicit scripta nec, nec illud decore partem et.
+  - title: BTech, Análise e Desenvolvimento de Sistemas
+    univ: CESUMAR
+    place: Curitiba, PR
+    date: 2021 – 2024

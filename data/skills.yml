@@ -1,11 +1,17 @@
-name: Programming Skills
-title: Software engineering & web development
+name: Conhecimentos
+title: Tecnologias
 source:
-  - name: [C/C++, Objective-C]
-    stars: 5
-
-  - name: [Java, Python, PHP, Git]
+  - name: [HTML]
     stars: 4
 
-  - name: [HTML/CSS3, Javascript]
+  - name: [CSS3]
     stars: 3
+
+  - name: [Javascript]
+    stars: 2
+
+  - name: [SQL]
+    stars: 2
+  
+  - name: [GIT]
+    stars: 2
