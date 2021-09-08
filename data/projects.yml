@@ -1,5 +1,6 @@
 name: Projetos
 source:
   - icon: fa fa-github
-    description: Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. 
-    url: http://google.com
+    name: site-ada-euprogramo-programaria
+    description: Projeto criado no curso Eu ProgAmo do PrograMaria. Esse site usa tecnologias como HTML, CSS e JavaScript.
+    url: https://github.com/jessicaprandini/site-ada-euprogramo-programaria
